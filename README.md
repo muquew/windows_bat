@@ -2,7 +2,7 @@
 快捷bat
 
 记录一下bat脚本的快捷打开
-
+![image](./Pic/show.png)
 原理是通过把bat脚本放入一个文件夹中并配置环境变量
 然后cmd窗口输入ls展示所有的脚本名以及相关的注释
 ![image](./Pic/list.png)
