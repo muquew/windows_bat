@@ -1,6 +1,11 @@
 # bat
 快捷bat
 
+
+[README_EN.md](./README_EN.md)
+
+
+
 记录一下bat脚本的快捷打开
 ![image](./Pic/show.png)
 原理是通过把bat脚本放入一个文件夹中并配置环境变量  
