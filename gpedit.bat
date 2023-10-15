@@ -1,5 +1,5 @@
 @echo off
-
+chcp 65001 > nul
 REM 本地组策略编辑器(gpedit.msc)
 
 pushd "%~dp0"

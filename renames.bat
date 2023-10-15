@@ -1,5 +1,5 @@
 @echo off
-
+chcp 65001 > nul
 REM 文件批量命名(相同格式(ctrl+A，F2命名))
 
 mode con cols=40 lines=20 & color 0f

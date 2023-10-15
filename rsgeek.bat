@@ -1,5 +1,5 @@
 @echo off
-
+chcp 65001 > nul
 REM 重启GeekDesk
 
 REM 终止 GeekDesk.exe 进程（如果存在）
